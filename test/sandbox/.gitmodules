@@ -1,0 +1,21 @@
+[submodule "libraries/imgui/imgui"]
+	path = libraries/imgui/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "libraries/imgui/imguizmo"]
+	path = libraries/imgui/imguizmo
+	url = https://github.com/CedricGuillemet/ImGuizmo
+[submodule "libraries/imgui/imnodes"]
+	path = libraries/imgui/imnodes
+	url = https://github.com/Nelarius/imnodes
+[submodule "libraries/imgui/implot"]
+	path = libraries/imgui/implot
+	url = https://github.com/epezent/implot
+[submodule "libraries/glm"]
+	path = libraries/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "libraries/entt"]
+	path = libraries/entt
+	url = git@github.com:skypjack/entt.git
+[submodule "libraries/sol2"]
+	path = libraries/sol2
+	url = git@github.com:ThePhD/sol2.git
